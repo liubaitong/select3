@@ -3,8 +3,10 @@ select3
 
 带checkbox支持多选的select下拉框
 
-使用方法
-      $("#select").Select3({
+**使用方法**
+
+
+       $("#select").Select3({
            max:4,
           data: [
               {value: "1", text: "miao"},
